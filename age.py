@@ -4,8 +4,14 @@ if age >= 10:
     print("The age is between 10-20 yrs")
 else:
     print("the age is not between 10-20 yrs(it is greater then 20)")
+    if age>= 20:
+         print("the age is greater than 20 ")
     else:
-    print("the age is not between 10 and 20 yrs(it is less then 10 yrs) ")
+        print("the age is not between 10-20yrs(it is greater than 20)")
+
+
+
+
 
 
 
